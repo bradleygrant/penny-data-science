@@ -1,3 +1,89 @@
+# Hi Penny dear!
+You wanted an email, but this is easier. The Internet already did most of the work for me.
+
+So, without further ado,
+
+<h2 align="center">Welcome to Penny Data Science</h2>
+<h4 align="center">A hub where you can git a look at all the courses you need</h4>
+
+By the way, did you know you can (and should) edit this? Get your GitHub account set up and you can edit this page as you make decisions and take courses.
+
+## [CLICK ME TO TL;DR AND JUST GO TO THE LIST OF OPEN CLASSES](#current-classes)
+
+## Contents
+
+- [Goals](#goals)
+- [Progress So Far](#progress-so-far)
+- [Current Classes](#current-classes)
+- [Future Classes](#future-classes)
+- [OSSU Program Contents](#ossu-program-contents)
+
+## Goals
+Simply put, what do you want to accomplish? We should spend a little bit of time trying to figure this out.
+
+But don't feel like you have to get EVERYTHING figured out. All paths forward lead through the same waypoints. You'll need linear algebra, probability, statistics, and Python or R programming. As long as you stay in this domain, those are the next places you need to go. So if you want to make a little bit of progress, then just pick one or two and do 'em.
+
+### Finishing a bachelor's degree?
+If you want to pick up degree work again next semester or in the summer, then we'll both feel a lot better if you've already done some pre-study so you don't feel overwhelmed.
+
+Options include:
+- Linear algebra
+- Probability and/or statistics
+- [Real analysis](https://en.wikipedia.org/wiki/Real_analysis)
+
+### Going to grad school?
+Well, you'll need to get into a grad school.
+
+Here are a few grad school options that should appeal to you: (TODO)
+- CSU MS Statistics (here, and awesome!)
+- Georgia Tech OMS Analysis (cheap, and online! and awesome!)
+- Michigan State
+- Northwestern
+- probably some other ones
+
+### Just want to go get a data analysis job?
+Then what you actually need is a data science bootcamp. (TODO)
+
+But before that, you should take a data science bootcamp prep course. (TODO)
+
+## Progress So Far
+You've come a long way, baby. Here's what you already have DONE and out of the way:
+- Pre-calculus
+- Calculus 1
+- Calculus 2
+- Calculus 3 / multivariate
+- Differential Equations
+- Discrete Math
+- Computer Programming (Java)
+- Computer Science 1: Control Flow and Objects
+- Computer Science 2: Data Structures
+- abunchofotherwisepointlessphysicsprerequisites erm I mean
+- Physics 1
+- Physics 2
+
+
+
+## Current Classes
+Things you can take right now!
+
+Courses | Duration | Start Date
+:-- | :--: | :--:
+[LAFF: Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-2#!)| 15 weeks | August 1, 2019 (now)
+[MIT 600.1x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-3)| 9 weeks | August 28, 2019
+
+
+## Future Classes
+Things you can take in future months without any further study.
+
+Courses | Duration | Start Date
+:-- | :--: | :--:
+[MIT 643.1x: Probability: The Science and Uncertainty of Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-2)| 16 weeks | January 27, 2019
+
+Things you can take in future sessions if you take some of these other classes now.
+
+Courses | Duration | Start Date
+:-- | :--: | :--:
+[MIT 600.2x: Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)| 9 weeks | October 16, 2019
 
 
 
@@ -13,7 +99,7 @@
 </p>
 
 
-## Contents
+## OSSU Program Contents
 
 - [About](#about)
 - [Curriculum](#curriculum)
@@ -52,7 +138,7 @@ In our curriculum, we give preference to MOOC (Massive Open Online Course) style
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-2#!)| 15 weeks | 8 hours/week
 [Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week
 [Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 weeks | 5 hours/week
 
@@ -73,15 +159,15 @@ Done? | Courses | Duration | Effort
 ### Python
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)| 9 weeks | 15 hours/week
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)| 10 weeks | 15 hours/week
+[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/6-00-1x-introduction-to-computer-science-and-programming-using-python-3)| 9 weeks | 15 hours/week
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)| 9 weeks | 15 hours/week
 [Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
 [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
 
 ### Probability and Statistics
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
+[Probability: The Science and Uncertainty of Data](https://www.edx.org/course/probability-the-science-of-uncertainty-and-data-2)| 16 weeks | 12 hours/week
 [Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
 [Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 weeks | - hours/week
 [Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 weeks | - hours/week
