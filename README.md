@@ -46,6 +46,9 @@ Then what you actually need is a data science bootcamp. (TODO)
 
 But before that, you should take a data science bootcamp prep course. (TODO)
 
+### I want to learn all these things, and I don't want to spend even a single penny.
+That's the entire point of the Open Source Society University! OSSU is a path to a free, self-taught education in Computer Science, Data Science, or a couple of other tracks. All you have to do is take the free resources and courses shown in [this section down here](#ossu-program-contents). Sounds easy, right? Well.... yes, but you *do* have to take them.
+
 ## Progress So Far
 You've come a long way, baby. Here's what you already have DONE and out of the way:
 - Pre-calculus
