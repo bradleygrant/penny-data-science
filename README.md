@@ -35,11 +35,16 @@ Options include:
 Well, you'll need to get into a grad school.
 
 Here are a few grad school options that should appeal to you: (TODO)
-- CSU MS Statistics (here, and awesome!)
-- Georgia Tech OMS Analysis (cheap, and online! and awesome!)
+- Colorado State University -- Master of Applied Statistics (here, and online, and awesome!) | [Program Page](https://mas.colostate.edu/statistical-science/) | Github Page (TODO)
+- Georgia Tech -- Online Master of Science Analysis (cheap, and online via edX! and awesome!) | [Program Page](https://pe.gatech.edu/degrees/analytics) | [edX Page with more info](https://www.edx.org/masters/online-master-science-analytics-georgia-tech) | [Subreddit](https://www.reddit.com/r/OMSA/)
 - Michigan State
 - Northwestern
 - probably some other ones
+
+In order to get in to a grad school, you'll need to take (at a minimum) the following courses:
+- Undergrad linear algebra (required by CSU and Georgia Tech)
+- Undergrad statistics (required by CSU and Georgia Tech)
+- Python programming (required by Georgia Tech who specifically recommends [CS1301](https://www.edx.org/professional-certificate/introduction-to-computing-in-python))
 
 ### Just want to go get a data analysis job?
 Then what you actually need is a data science bootcamp. (TODO)
